@@ -1,0 +1,1 @@
+/home/hduser/spark/bin/spark-submit --master spark://hadoop-namenode:7077 --driver-memory 15G --driver-cores 8 --executor-memory 15G --conf spark.cores.max=8 /home/hduser/spark/apps/user_csv.py -p $1

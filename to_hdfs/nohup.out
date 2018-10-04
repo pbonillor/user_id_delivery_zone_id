@@ -1,0 +1,1746 @@
+18/09/20 20:10:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Argentina
+Deleted /ar/order_details_options
+Inserted Data /ar/order_details_options
+root
+ |-- order_id: long (nullable = true)
+ |-- country_id: integer (nullable = true)
+ |-- country_name: string (nullable = true)
+ |-- city_id: long (nullable = true)
+ |-- city_name: string (nullable = true)
+ |-- area_id: long (nullable = true)
+ |-- area_name: string (nullable = true)
+ |-- address_id: integer (nullable = true)
+ |-- order_latitude: double (nullable = true)
+ |-- order_longitude: double (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- partner_id: long (nullable = true)
+ |-- delivery_date: timestamp (nullable = true)
+ |-- state_id: integer (nullable = true)
+ |-- state_name: string (nullable = true)
+ |-- registered_date: timestamp (nullable = true)
+ |-- first_successful: boolean (nullable = true)
+ |-- online_payment: boolean (nullable = true)
+ |-- with_logistics: boolean (nullable = true)
+ |-- is_coca: boolean (nullable = true)
+ |-- is_beverage: boolean (nullable = true)
+ |-- business_type: integer (nullable = true)
+ |-- business_type_name: string (nullable = true)
+ |-- product_id: long (nullable = true)
+ |-- prod_quantity: integer (nullable = true)
+ |-- prod_unit_price: decimal(19,2) (nullable = true)
+ |-- category_name: string (nullable = true)
+ |-- category_tag_name: string (nullable = true)
+ |-- product_name: string (nullable = true)
+ |-- product_description: string (nullable = true)
+ |-- option_product_name: string (nullable = true)
+ |-- option_group_name: string (nullable = true)
+ |-- option_name: string (nullable = true)
+ |-- option_amount: decimal(19,2) (nullable = true)
+
+18/09/20 20:57:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Chile
+Inserted Data /cl/order_details_options
+root
+ |-- order_id: long (nullable = true)
+ |-- country_id: integer (nullable = true)
+ |-- country_name: string (nullable = true)
+ |-- city_id: long (nullable = true)
+ |-- city_name: string (nullable = true)
+ |-- area_id: long (nullable = true)
+ |-- area_name: string (nullable = true)
+ |-- address_id: integer (nullable = true)
+ |-- order_latitude: double (nullable = true)
+ |-- order_longitude: double (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- partner_id: long (nullable = true)
+ |-- delivery_date: timestamp (nullable = true)
+ |-- state_id: integer (nullable = true)
+ |-- state_name: string (nullable = true)
+ |-- registered_date: timestamp (nullable = true)
+ |-- first_successful: boolean (nullable = true)
+ |-- online_payment: boolean (nullable = true)
+ |-- with_logistics: boolean (nullable = true)
+ |-- is_coca: boolean (nullable = true)
+ |-- is_beverage: boolean (nullable = true)
+ |-- business_type: integer (nullable = true)
+ |-- business_type_name: string (nullable = true)
+ |-- product_id: long (nullable = true)
+ |-- prod_quantity: integer (nullable = true)
+ |-- prod_unit_price: decimal(19,2) (nullable = true)
+ |-- category_name: string (nullable = true)
+ |-- category_tag_name: string (nullable = true)
+ |-- product_name: string (nullable = true)
+ |-- product_description: string (nullable = true)
+ |-- option_product_name: string (nullable = true)
+ |-- option_group_name: string (nullable = true)
+ |-- option_name: string (nullable = true)
+ |-- option_amount: decimal(19,2) (nullable = true)
+
+18/09/20 21:16:20 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Panamá
+18/09/20 21:17:08 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Paraguay
+Inserted Data /py/order_details_options
+root
+ |-- order_id: long (nullable = true)
+ |-- country_id: integer (nullable = true)
+ |-- country_name: string (nullable = true)
+ |-- city_id: long (nullable = true)
+ |-- city_name: string (nullable = true)
+ |-- area_id: long (nullable = true)
+ |-- area_name: string (nullable = true)
+ |-- address_id: integer (nullable = true)
+ |-- order_latitude: double (nullable = true)
+ |-- order_longitude: double (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- partner_id: long (nullable = true)
+ |-- delivery_date: timestamp (nullable = true)
+ |-- state_id: integer (nullable = true)
+ |-- state_name: string (nullable = true)
+ |-- registered_date: timestamp (nullable = true)
+ |-- first_successful: boolean (nullable = true)
+ |-- online_payment: boolean (nullable = true)
+ |-- with_logistics: boolean (nullable = true)
+ |-- is_coca: boolean (nullable = true)
+ |-- is_beverage: boolean (nullable = true)
+ |-- business_type: integer (nullable = true)
+ |-- business_type_name: string (nullable = true)
+ |-- product_id: long (nullable = true)
+ |-- prod_quantity: integer (nullable = true)
+ |-- prod_unit_price: decimal(19,2) (nullable = true)
+ |-- category_name: string (nullable = true)
+ |-- category_tag_name: string (nullable = true)
+ |-- product_name: string (nullable = true)
+ |-- product_description: string (nullable = true)
+ |-- option_product_name: string (nullable = true)
+ |-- option_group_name: string (nullable = true)
+ |-- option_name: string (nullable = true)
+ |-- option_amount: decimal(19,2) (nullable = true)
+
+Inserted Data /pa/order_details_options
+root
+ |-- order_id: long (nullable = true)
+ |-- country_id: integer (nullable = true)
+ |-- country_name: string (nullable = true)
+ |-- city_id: long (nullable = true)
+ |-- city_name: string (nullable = true)
+ |-- area_id: long (nullable = true)
+ |-- area_name: string (nullable = true)
+ |-- address_id: integer (nullable = true)
+ |-- order_latitude: double (nullable = true)
+ |-- order_longitude: double (nullable = true)
+ |-- user_id: long (nullable = true)
+ |-- partner_id: long (nullable = true)
+ |-- delivery_date: timestamp (nullable = true)
+ |-- state_id: integer (nullable = true)
+ |-- state_name: string (nullable = true)
+ |-- registered_date: timestamp (nullable = true)
+ |-- first_successful: boolean (nullable = true)
+ |-- online_payment: boolean (nullable = true)
+ |-- with_logistics: boolean (nullable = true)
+ |-- is_coca: boolean (nullable = true)
+ |-- is_beverage: boolean (nullable = true)
+ |-- business_type: integer (nullable = true)
+ |-- business_type_name: string (nullable = true)
+ |-- product_id: long (nullable = true)
+ |-- prod_quantity: integer (nullable = true)
+ |-- prod_unit_price: decimal(19,2) (nullable = true)
+ |-- category_name: string (nullable = true)
+ |-- category_tag_name: string (nullable = true)
+ |-- product_name: string (nullable = true)
+ |-- product_description: string (nullable = true)
+ |-- option_product_name: string (nullable = true)
+ |-- option_group_name: string (nullable = true)
+ |-- option_name: string (nullable = true)
+ |-- option_amount: decimal(19,2) (nullable = true)
+
+18/09/21 21:41:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-01-01 00:00:00 , to: 2018-09-23 00:00:00
+Argentina
+Inserted Data /ar/order_details_options/2018-01-01/
+Inserted Data /ar/order_details_options/2018-01-02/
+Inserted Data /ar/order_details_options/2018-01-03/
+Inserted Data /ar/order_details_options/2018-01-04/
+Inserted Data /ar/order_details_options/2018-01-05/
+Inserted Data /ar/order_details_options/2018-01-06/
+Inserted Data /ar/order_details_options/2018-01-07/
+Inserted Data /ar/order_details_options/2018-01-08/
+Inserted Data /ar/order_details_options/2018-01-09/
+Inserted Data /ar/order_details_options/2018-01-10/
+Inserted Data /ar/order_details_options/2018-01-11/
+Inserted Data /ar/order_details_options/2018-01-12/
+Inserted Data /ar/order_details_options/2018-01-13/
+Inserted Data /ar/order_details_options/2018-01-14/
+Inserted Data /ar/order_details_options/2018-01-15/
+Inserted Data /ar/order_details_options/2018-01-16/
+Inserted Data /ar/order_details_options/2018-01-17/
+Inserted Data /ar/order_details_options/2018-01-18/
+Inserted Data /ar/order_details_options/2018-01-19/
+Inserted Data /ar/order_details_options/2018-01-20/
+Inserted Data /ar/order_details_options/2018-01-21/
+Inserted Data /ar/order_details_options/2018-01-22/
+Inserted Data /ar/order_details_options/2018-01-23/
+Inserted Data /ar/order_details_options/2018-01-24/
+Inserted Data /ar/order_details_options/2018-01-25/
+Inserted Data /ar/order_details_options/2018-01-26/
+Inserted Data /ar/order_details_options/2018-01-27/
+Inserted Data /ar/order_details_options/2018-01-28/
+Inserted Data /ar/order_details_options/2018-01-29/
+Inserted Data /ar/order_details_options/2018-01-30/
+Inserted Data /ar/order_details_options/2018-01-31/
+Inserted Data /ar/order_details_options/2018-02-01/
+Inserted Data /ar/order_details_options/2018-02-02/
+18/09/22 18:58:26 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/22 18:58:26 ERROR Inbox: Ignoring error
+org.apache.spark.SparkException: Exiting due to error from cluster scheduler: Master removed our application: KILLED
+	at org.apache.spark.scheduler.TaskSchedulerImpl.error(TaskSchedulerImpl.scala:500)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.dead(StandaloneSchedulerBackend.scala:147)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint.markDead(StandaloneAppClient.scala:258)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anonfun$receive$1.applyOrElse(StandaloneAppClient.scala:168)
+	at org.apache.spark.rpc.netty.Inbox$$anonfun$process$1.apply$mcV$sp(Inbox.scala:117)
+	at org.apache.spark.rpc.netty.Inbox.safelyCall(Inbox.scala:205)
+	at org.apache.spark.rpc.netty.Inbox.process(Inbox.scala:101)
+	at org.apache.spark.rpc.netty.Dispatcher$MessageLoop.run(Dispatcher.scala:221)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o179.parquet.
+: java.util.NoSuchElementException: None.get
+	at scala.None$.get(Option.scala:347)
+	at scala.None$.get(Option.scala:345)
+	at org.apache.spark.sql.execution.datasources.BasicWriteJobStatsTracker$.metrics(BasicWriteStatsTracker.scala:173)
+	at org.apache.spark.sql.execution.command.DataWritingCommand$class.metrics(DataWritingCommand.scala:47)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.metrics$lzycompute(InsertIntoHadoopFsRelationCommand.scala:46)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.metrics(InsertIntoHadoopFsRelationCommand.scala:46)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.metrics$lzycompute(commands.scala:100)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.metrics(commands.scala:100)
+	at org.apache.spark.sql.execution.SparkPlanInfo$.fromSparkPlan(SparkPlanInfo.scala:58)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:75)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+18/09/22 22:16:12 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-01-01 00:00:00 , to: 2018-09-23 00:00:00
+Argentina
+18/09/22 22:16:24 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/22 22:16:24 ERROR Inbox: Ignoring error
+org.apache.spark.SparkException: Exiting due to error from cluster scheduler: Master removed our application: KILLED
+	at org.apache.spark.scheduler.TaskSchedulerImpl.error(TaskSchedulerImpl.scala:500)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.dead(StandaloneSchedulerBackend.scala:147)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint.markDead(StandaloneAppClient.scala:258)
+	at org.apache.spark.deploy.client.StandaloneAppClient$ClientEndpoint$$anonfun$receive$1.applyOrElse(StandaloneAppClient.scala:168)
+	at org.apache.spark.rpc.netty.Inbox$$anonfun$process$1.apply$mcV$sp(Inbox.scala:117)
+	at org.apache.spark.rpc.netty.Inbox.safelyCall(Inbox.scala:205)
+	at org.apache.spark.rpc.netty.Inbox.process(Inbox.scala:101)
+	at org.apache.spark.rpc.netty.Dispatcher$MessageLoop.run(Dispatcher.scala:221)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Deleted /ar/order_details_options/2018-01-01
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o47.parquet.
+: java.util.NoSuchElementException: None.get
+	at scala.None$.get(Option.scala:347)
+	at scala.None$.get(Option.scala:345)
+	at org.apache.spark.sql.execution.datasources.BasicWriteJobStatsTracker$.metrics(BasicWriteStatsTracker.scala:173)
+	at org.apache.spark.sql.execution.command.DataWritingCommand$class.metrics(DataWritingCommand.scala:47)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.metrics$lzycompute(InsertIntoHadoopFsRelationCommand.scala:46)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.metrics(InsertIntoHadoopFsRelationCommand.scala:46)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.metrics$lzycompute(commands.scala:100)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.metrics(commands.scala:100)
+	at org.apache.spark.sql.execution.SparkPlanInfo$.fromSparkPlan(SparkPlanInfo.scala:58)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:75)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+18/09/22 22:16:58 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-23 00:00:00
+Uruguay
+Deleted /uy/order_details_options/2018-09-01
+Inserted Data /uy/order_details_options/2018-09-01/
+Inserted Data /uy/order_details_options/2018-09-02/
+Inserted Data /uy/order_details_options/2018-09-03/
+Inserted Data /uy/order_details_options/2018-09-04/
+Inserted Data /uy/order_details_options/2018-09-05/
+Inserted Data /uy/order_details_options/2018-09-06/
+Inserted Data /uy/order_details_options/2018-09-07/
+Inserted Data /uy/order_details_options/2018-09-08/
+Inserted Data /uy/order_details_options/2018-09-09/
+18/09/23 00:18:14 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/23 00:18:14 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o83.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+
+
+18/09/23 00:18:14 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+18/09/24 13:35:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-24 00:00:00
+Uruguay
+Deleted /uy/order_details_options/2018-09-01
+18/09/24 13:36:11 ERROR TaskSetManager: Task 0 in stage 2.0 failed 4 times; aborting job
+18/09/24 13:36:11 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 2.0 failed 4 times, most recent failure: Lost task 0.3 in stage 2.0 (TID 8, 10.0.88.190, executor 1): java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	... 24 more
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	... 24 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o47.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 2.0 failed 4 times, most recent failure: Lost task 0.3 in stage 2.0 (TID 8, 10.0.88.190, executor 1): java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	... 24 more
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+Caused by: java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_details_options_to_hdfs;
+	... 24 more
+
+
+18/09/24 13:38:39 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-24 00:00:00
+Uruguay
+Deleted /uy/order_details_options/2018-09-01
+Inserted Data /uy/order_details_options/2018-09-01/
+Deleted /uy/order_details_options/2018-09-02
+Inserted Data /uy/order_details_options/2018-09-02/
+Deleted /uy/order_details_options/2018-09-03
+Inserted Data /uy/order_details_options/2018-09-03/
+Deleted /uy/order_details_options/2018-09-04
+Inserted Data /uy/order_details_options/2018-09-04/
+Deleted /uy/order_details_options/2018-09-05
+Inserted Data /uy/order_details_options/2018-09-05/
+Deleted /uy/order_details_options/2018-09-06
+Inserted Data /uy/order_details_options/2018-09-06/
+Deleted /uy/order_details_options/2018-09-07
+Inserted Data /uy/order_details_options/2018-09-07/
+Deleted /uy/order_details_options/2018-09-08
+Inserted Data /uy/order_details_options/2018-09-08/
+Deleted /uy/order_details_options/2018-09-09
+Inserted Data /uy/order_details_options/2018-09-09/
+Deleted /uy/order_details_options/2018-09-10
+18/09/24 14:24:49 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/24 14:24:49 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o83.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+
+
+18/09/24 14:24:49 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+18/09/24 15:27:09 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-10 00:00:00 , to: 2018-09-24 00:00:00
+Uruguay
+Deleted /uy/order_details_options/2018-09-10
+Inserted Data /uy/order_details_options/2018-09-10/
+Inserted Data /uy/order_details_options/2018-09-11/
+Inserted Data /uy/order_details_options/2018-09-12/
+Inserted Data /uy/order_details_options/2018-09-13/
+Inserted Data /uy/order_details_options/2018-09-14/
+Inserted Data /uy/order_details_options/2018-09-15/
+Inserted Data /uy/order_details_options/2018-09-16/
+Inserted Data /uy/order_details_options/2018-09-17/
+Inserted Data /uy/order_details_options/2018-09-18/
+Inserted Data /uy/order_details_options/2018-09-19/
+Inserted Data /uy/order_details_options/2018-09-20/
+Inserted Data /uy/order_details_options/2018-09-21/
+Inserted Data /uy/order_details_options/2018-09-22/
+Inserted Data /uy/order_details_options/2018-09-23/
+Inserted Data /uy/order_details_options/2018-09-24/
+18/09/24 17:12:22 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-24 00:00:00
+Argentina
+Inserted Data /ar/order_details_options/2018-09-01/
+Inserted Data /ar/order_details_options/2018-09-02/
+Inserted Data /ar/order_details_options/2018-09-03/
+Inserted Data /ar/order_details_options/2018-09-04/
+Inserted Data /ar/order_details_options/2018-09-05/
+Inserted Data /ar/order_details_options/2018-09-06/
+Inserted Data /ar/order_details_options/2018-09-07/
+Inserted Data /ar/order_details_options/2018-09-08/
+18/09/24 19:58:24 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/24 19:58:24 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+18/09/24 19:58:24 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 65, in funcion_order_details_options
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/order_details_options/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o79.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+
+
+18/09/25 16:14:02 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/09/25 16:14:10 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/25 16:14:10 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_details_options_by_country_to_hdfs.py", line 34, in funcion_order_details_options
+    data = sqlContext.read.parquet('hdfs://hadoop-namenode:9000/common/countries/')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 303, in parquet
+    return self._df(self._jreader.parquet(_to_seq(self._spark._sc, paths)))
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o38.parquet.
+: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2055)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2074)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2099)
+	at org.apache.spark.rdd.RDD$$anonfun$collect$1.apply(RDD.scala:939)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:363)
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:938)
+	at org.apache.spark.sql.execution.datasources.parquet.ParquetFileFormat$.mergeSchemasInParallel(ParquetFileFormat.scala:611)
+	at org.apache.spark.sql.execution.datasources.parquet.ParquetFileFormat.inferSchema(ParquetFileFormat.scala:241)
+	at org.apache.spark.sql.execution.datasources.DataSource$$anonfun$8.apply(DataSource.scala:202)
+	at org.apache.spark.sql.execution.datasources.DataSource$$anonfun$8.apply(DataSource.scala:202)
+	at scala.Option.orElse(Option.scala:289)
+	at org.apache.spark.sql.execution.datasources.DataSource.getOrInferFileFormatSchema(DataSource.scala:201)
+	at org.apache.spark.sql.execution.datasources.DataSource.resolveRelation(DataSource.scala:392)
+	at org.apache.spark.sql.DataFrameReader.loadV1Source(DataFrameReader.scala:239)
+	at org.apache.spark.sql.DataFrameReader.load(DataFrameReader.scala:227)
+	at org.apache.spark.sql.DataFrameReader.parquet(DataFrameReader.scala:622)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+18/09/25 16:14:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-26 00:00:00
+Uruguay
+18/09/25 16:15:11 ERROR TaskSetManager: Task 0 in stage 2.0 failed 4 times; aborting job
+18/09/25 16:15:11 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 2.0 failed 4 times, most recent failure: Lost task 0.3 in stage 2.0 (TID 8, 10.0.81.22, executor 1): java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	... 24 more
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	... 24 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_to_hdfs.py", line 63, in funcion_orders
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/orders/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o47.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Task 0 in stage 2.0 failed 4 times, most recent failure: Lost task 0.3 in stage 2.0 (TID 8, 10.0.81.22, executor 1): java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	... 24 more
+
+Driver stacktrace:
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+Caused by: java.sql.SQLException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	at com.amazon.redshift.client.messages.inbound.ErrorResponse.toErrorException(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleErrorResponse(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.handleMessage(Unknown Source)
+	at com.amazon.jdbc.communications.InboundMessagesPipeline.getNextMessageOfClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.doMoveToNextClass(Unknown Source)
+	at com.amazon.redshift.client.PGMessagingContext.getBindComplete(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsScenario1(Unknown Source)
+	at com.amazon.redshift.client.PGClient.handleErrorsPrepareExecute(Unknown Source)
+	at com.amazon.redshift.client.PGClient.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.executePreparedStatement(Unknown Source)
+	at com.amazon.redshift.dataengine.PGQueryExecutor.execute(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeWithParams(Unknown Source)
+	at com.amazon.jdbc.common.SPreparedStatement.executeQuery(Unknown Source)
+	at org.apache.spark.sql.execution.datasources.jdbc.JDBCRDD.compute(JDBCRDD.scala:301)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.rdd.MapPartitionsRDD.compute(MapPartitionsRDD.scala:38)
+	at org.apache.spark.rdd.RDD.computeOrReadCheckpoint(RDD.scala:324)
+	at org.apache.spark.rdd.RDD.iterator(RDD.scala:288)
+	at org.apache.spark.scheduler.ResultTask.runTask(ResultTask.scala:87)
+	at org.apache.spark.scheduler.Task.run(Task.scala:109)
+	at org.apache.spark.executor.Executor$TaskRunner.run(Executor.scala:345)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+Caused by: com.amazon.support.exceptions.ErrorException: [Amazon](500310) Invalid operation: permission denied for relation orders_to_hdfs;
+	... 24 more
+
+
+18/09/25 16:16:25 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/09/25 16:16:26 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+18/09/25 16:16:35 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/25 16:16:36 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_to_hdfs.py", line 45, in funcion_orders
+    to_list = [list(row) for row in countries.collect()]
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/dataframe.py", line 466, in collect
+    sock_info = self._jdf.collectToPython()
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o42.collectToPython.
+: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2055)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2074)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2099)
+	at org.apache.spark.rdd.RDD$$anonfun$collect$1.apply(RDD.scala:939)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:363)
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:938)
+	at org.apache.spark.sql.execution.SparkPlan.executeCollect(SparkPlan.scala:297)
+	at org.apache.spark.sql.Dataset$$anonfun$collectToPython$1.apply(Dataset.scala:3195)
+	at org.apache.spark.sql.Dataset$$anonfun$collectToPython$1.apply(Dataset.scala:3192)
+	at org.apache.spark.sql.Dataset$$anonfun$52.apply(Dataset.scala:3254)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.Dataset.withAction(Dataset.scala:3253)
+	at org.apache.spark.sql.Dataset.collectToPython(Dataset.scala:3192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+18/09/25 16:16:37 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/25 16:16:37 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_to_hdfs.py", line 45, in funcion_orders
+    to_list = [list(row) for row in countries.collect()]
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/dataframe.py", line 466, in collect
+    sock_info = self._jdf.collectToPython()
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o42.collectToPython.
+: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2055)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2074)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2099)
+	at org.apache.spark.rdd.RDD$$anonfun$collect$1.apply(RDD.scala:939)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:112)
+	at org.apache.spark.rdd.RDD.withScope(RDD.scala:363)
+	at org.apache.spark.rdd.RDD.collect(RDD.scala:938)
+	at org.apache.spark.sql.execution.SparkPlan.executeCollect(SparkPlan.scala:297)
+	at org.apache.spark.sql.Dataset$$anonfun$collectToPython$1.apply(Dataset.scala:3195)
+	at org.apache.spark.sql.Dataset$$anonfun$collectToPython$1.apply(Dataset.scala:3192)
+	at org.apache.spark.sql.Dataset$$anonfun$52.apply(Dataset.scala:3254)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.Dataset.withAction(Dataset.scala:3253)
+	at org.apache.spark.sql.Dataset.collectToPython(Dataset.scala:3192)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+18/09/25 16:16:41 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-26 00:00:00
+Uruguay
+Deleted /uy/orders/2018-09-01
+Inserted Data /uy/orders/2018-09-01/
+Inserted Data /uy/orders/2018-09-02/
+Inserted Data /uy/orders/2018-09-03/
+Inserted Data /uy/orders/2018-09-04/
+Inserted Data /uy/orders/2018-09-05/
+Inserted Data /uy/orders/2018-09-06/
+Inserted Data /uy/orders/2018-09-07/
+Inserted Data /uy/orders/2018-09-08/
+Inserted Data /uy/orders/2018-09-09/
+Inserted Data /uy/orders/2018-09-10/
+Inserted Data /uy/orders/2018-09-11/
+Inserted Data /uy/orders/2018-09-12/
+Inserted Data /uy/orders/2018-09-13/
+Inserted Data /uy/orders/2018-09-14/
+Inserted Data /uy/orders/2018-09-15/
+Inserted Data /uy/orders/2018-09-16/
+Inserted Data /uy/orders/2018-09-17/
+Inserted Data /uy/orders/2018-09-18/
+Inserted Data /uy/orders/2018-09-19/
+Inserted Data /uy/orders/2018-09-20/
+Inserted Data /uy/orders/2018-09-21/
+Inserted Data /uy/orders/2018-09-22/
+Inserted Data /uy/orders/2018-09-23/
+Inserted Data /uy/orders/2018-09-24/
+Inserted Data /uy/orders/2018-09-25/
+Inserted Data /uy/orders/2018-09-26/
+18/09/25 17:21:00 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-26 00:00:00
+Uruguay
+Deleted /uy/orders/2018-09-01
+18/09/25 17:23:27 ERROR StandaloneSchedulerBackend: Application has been killed. Reason: Master removed our application: KILLED
+18/09/25 17:23:27 ERROR FileFormatWriter: Aborting job null.
+org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+18/09/25 17:23:27 ERROR Utils: Uncaught exception in thread stop-spark-context
+org.apache.spark.SparkException: Exception thrown in awaitResult: 
+	at org.apache.spark.util.ThreadUtils$.awaitResult(ThreadUtils.scala:205)
+	at org.apache.spark.rpc.RpcTimeout.awaitResult(RpcTimeout.scala:75)
+	at org.apache.spark.deploy.client.StandaloneAppClient.stop(StandaloneAppClient.scala:283)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.org$apache$spark$scheduler$cluster$StandaloneSchedulerBackend$$stop(StandaloneSchedulerBackend.scala:226)
+	at org.apache.spark.scheduler.cluster.StandaloneSchedulerBackend.stop(StandaloneSchedulerBackend.scala:124)
+	at org.apache.spark.scheduler.TaskSchedulerImpl.stop(TaskSchedulerImpl.scala:508)
+	at org.apache.spark.scheduler.DAGScheduler.stop(DAGScheduler.scala:1755)
+	at org.apache.spark.SparkContext$$anonfun$stop$8.apply$mcV$sp(SparkContext.scala:1931)
+	at org.apache.spark.util.Utils$.tryLogNonFatalError(Utils.scala:1360)
+	at org.apache.spark.SparkContext.stop(SparkContext.scala:1930)
+	at org.apache.spark.SparkContext$$anon$3.run(SparkContext.scala:1876)
+Caused by: org.apache.spark.SparkException: Could not find AppClient.
+	at org.apache.spark.rpc.netty.Dispatcher.postMessage(Dispatcher.scala:160)
+	at org.apache.spark.rpc.netty.Dispatcher.postLocalMessage(Dispatcher.scala:135)
+	at org.apache.spark.rpc.netty.NettyRpcEnv.ask(NettyRpcEnv.scala:229)
+	at org.apache.spark.rpc.netty.NettyRpcEndpointRef.ask(NettyRpcEnv.scala:523)
+	at org.apache.spark.rpc.RpcEndpointRef.ask(RpcEndpointRef.scala:63)
+	... 9 more
+Traceback (most recent call last):
+  File "/home/hduser/spark/apps/to_hdfs/redshift_orders_to_hdfs.py", line 63, in funcion_orders
+    sqlDF_by_country.write.parquet('hdfs://hadoop-namenode:9000/'+country[2]+'/orders/'+date.strftime("%Y-%m-%d")+'/', mode='overwrite', compression='snappy')
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/readwriter.py", line 804, in parquet
+    self._jwrite.parquet(path)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/java_gateway.py", line 1257, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/hduser/spark/python/lib/pyspark.zip/pyspark/sql/utils.py", line 63, in deco
+    return f(*a, **kw)
+  File "/home/hduser/spark/python/lib/py4j-0.10.7-src.zip/py4j/protocol.py", line 328, in get_return_value
+    format(target_id, ".", name), value)
+Py4JJavaError: An error occurred while calling o47.parquet.
+: org.apache.spark.SparkException: Job aborted.
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:224)
+	at org.apache.spark.sql.execution.datasources.InsertIntoHadoopFsRelationCommand.run(InsertIntoHadoopFsRelationCommand.scala:154)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult$lzycompute(commands.scala:104)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.sideEffectResult(commands.scala:102)
+	at org.apache.spark.sql.execution.command.DataWritingCommandExec.doExecute(commands.scala:122)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:131)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$execute$1.apply(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.SparkPlan$$anonfun$executeQuery$1.apply(SparkPlan.scala:155)
+	at org.apache.spark.rdd.RDDOperationScope$.withScope(RDDOperationScope.scala:151)
+	at org.apache.spark.sql.execution.SparkPlan.executeQuery(SparkPlan.scala:152)
+	at org.apache.spark.sql.execution.SparkPlan.execute(SparkPlan.scala:127)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd$lzycompute(QueryExecution.scala:80)
+	at org.apache.spark.sql.execution.QueryExecution.toRdd(QueryExecution.scala:80)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter$$anonfun$runCommand$1.apply(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.execution.SQLExecution$.withNewExecutionId(SQLExecution.scala:77)
+	at org.apache.spark.sql.DataFrameWriter.runCommand(DataFrameWriter.scala:654)
+	at org.apache.spark.sql.DataFrameWriter.saveToV1Source(DataFrameWriter.scala:273)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:267)
+	at org.apache.spark.sql.DataFrameWriter.save(DataFrameWriter.scala:225)
+	at org.apache.spark.sql.DataFrameWriter.parquet(DataFrameWriter.scala:547)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at py4j.reflection.MethodInvoker.invoke(MethodInvoker.java:244)
+	at py4j.reflection.ReflectionEngine.invoke(ReflectionEngine.java:357)
+	at py4j.Gateway.invoke(Gateway.java:282)
+	at py4j.commands.AbstractCommand.invokeMethod(AbstractCommand.java:132)
+	at py4j.commands.CallCommand.execute(CallCommand.java:79)
+	at py4j.GatewayConnection.run(GatewayConnection.java:238)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.spark.SparkException: Job aborted due to stage failure: Master removed our application: KILLED
+	at org.apache.spark.scheduler.DAGScheduler.org$apache$spark$scheduler$DAGScheduler$$failJobAndIndependentStages(DAGScheduler.scala:1602)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1590)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$abortStage$1.apply(DAGScheduler.scala:1589)
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:59)
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.abortStage(DAGScheduler.scala:1589)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGScheduler$$anonfun$handleTaskSetFailed$1.apply(DAGScheduler.scala:831)
+	at scala.Option.foreach(Option.scala:257)
+	at org.apache.spark.scheduler.DAGScheduler.handleTaskSetFailed(DAGScheduler.scala:831)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.doOnReceive(DAGScheduler.scala:1823)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1772)
+	at org.apache.spark.scheduler.DAGSchedulerEventProcessLoop.onReceive(DAGScheduler.scala:1761)
+	at org.apache.spark.util.EventLoop$$anon$1.run(EventLoop.scala:48)
+	at org.apache.spark.scheduler.DAGScheduler.runJob(DAGScheduler.scala:642)
+	at org.apache.spark.SparkContext.runJob(SparkContext.scala:2034)
+	at org.apache.spark.sql.execution.datasources.FileFormatWriter$.write(FileFormatWriter.scala:194)
+	... 31 more
+
+
+18/09/25 17:30:48 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-26 00:00:00
+Uruguay
+Deleted /uy/orders/2018-09-01
+Inserted Data /uy/orders/2018-09-01/
+Deleted /uy/orders/2018-09-02
+Inserted Data /uy/orders/2018-09-02/
+Deleted /uy/orders/2018-09-03
+Inserted Data /uy/orders/2018-09-03/
+Deleted /uy/orders/2018-09-04
+Inserted Data /uy/orders/2018-09-04/
+Deleted /uy/orders/2018-09-05
+Inserted Data /uy/orders/2018-09-05/
+Deleted /uy/orders/2018-09-06
+Inserted Data /uy/orders/2018-09-06/
+Deleted /uy/orders/2018-09-07
+Inserted Data /uy/orders/2018-09-07/
+Deleted /uy/orders/2018-09-08
+Inserted Data /uy/orders/2018-09-08/
+Deleted /uy/orders/2018-09-09
+Inserted Data /uy/orders/2018-09-09/
+Deleted /uy/orders/2018-09-10
+Inserted Data /uy/orders/2018-09-10/
+Deleted /uy/orders/2018-09-11
+Inserted Data /uy/orders/2018-09-11/
+Deleted /uy/orders/2018-09-12
+Inserted Data /uy/orders/2018-09-12/
+Deleted /uy/orders/2018-09-13
+Inserted Data /uy/orders/2018-09-13/
+Deleted /uy/orders/2018-09-14
+Inserted Data /uy/orders/2018-09-14/
+Deleted /uy/orders/2018-09-15
+Inserted Data /uy/orders/2018-09-15/
+Deleted /uy/orders/2018-09-16
+Inserted Data /uy/orders/2018-09-16/
+Deleted /uy/orders/2018-09-17
+Inserted Data /uy/orders/2018-09-17/
+Deleted /uy/orders/2018-09-18
+Inserted Data /uy/orders/2018-09-18/
+Deleted /uy/orders/2018-09-19
+Inserted Data /uy/orders/2018-09-19/
+Deleted /uy/orders/2018-09-20
+Inserted Data /uy/orders/2018-09-20/
+Deleted /uy/orders/2018-09-21
+Inserted Data /uy/orders/2018-09-21/
+Deleted /uy/orders/2018-09-22
+Inserted Data /uy/orders/2018-09-22/
+Deleted /uy/orders/2018-09-23
+Inserted Data /uy/orders/2018-09-23/
+Deleted /uy/orders/2018-09-24
+Inserted Data /uy/orders/2018-09-24/
+Deleted /uy/orders/2018-09-25
+Inserted Data /uy/orders/2018-09-25/
+Deleted /uy/orders/2018-09-26
+Inserted Data /uy/orders/2018-09-26/
+18/09/25 19:06:10 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-01 00:00:00 , to: 2018-09-26 00:00:00
+Argentina
+Inserted Data /ar/orders/2018-09-01/
+Inserted Data /ar/orders/2018-09-02/
+Inserted Data /ar/orders/2018-09-03/
+Inserted Data /ar/orders/2018-09-04/
+Inserted Data /ar/orders/2018-09-05/
+Inserted Data /ar/orders/2018-09-06/
+Inserted Data /ar/orders/2018-09-07/
+Inserted Data /ar/orders/2018-09-08/
+Inserted Data /ar/orders/2018-09-09/
+Inserted Data /ar/orders/2018-09-10/
+Inserted Data /ar/orders/2018-09-11/
+Inserted Data /ar/orders/2018-09-12/
+Inserted Data /ar/orders/2018-09-13/
+Inserted Data /ar/orders/2018-09-14/
+Inserted Data /ar/orders/2018-09-15/
+Inserted Data /ar/orders/2018-09-16/
+Inserted Data /ar/orders/2018-09-17/
+Inserted Data /ar/orders/2018-09-18/
+Inserted Data /ar/orders/2018-09-19/
+Inserted Data /ar/orders/2018-09-20/
+Inserted Data /ar/orders/2018-09-21/
+Inserted Data /ar/orders/2018-09-22/
+Inserted Data /ar/orders/2018-09-23/
+Inserted Data /ar/orders/2018-09-24/
+Inserted Data /ar/orders/2018-09-25/
+Inserted Data /ar/orders/2018-09-26/
+18/10/01 19:21:33 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Generating dates -> from:2018-09-28 00:00:00 , to: 2018-10-01 00:00:00
+Uruguay
+Deleted /uy/orders/2018-09-28
+Inserted Data /uy/orders/2018-09-28/
+Inserted Data /uy/orders/2018-09-29/
+Inserted Data /uy/orders/2018-09-30/
+Inserted Data /uy/orders/2018-10-01/

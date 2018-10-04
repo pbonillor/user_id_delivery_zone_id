@@ -1,0 +1,1 @@
+/home/hduser/spark/bin/spark-submit --master spark://hadoop-namenode:7077 --driver-memory 12G --driver-cores 6 --executor-memory 12G --conf spark.cores.max=6 $TO_HDFS/redshift_orders_to_hdfs.py -p $1 -fd $2 -td $3
